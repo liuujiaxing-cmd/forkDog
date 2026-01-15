@@ -895,6 +895,22 @@
         "special": "aura"
       },
       "story": "Your dog evolved! Changes: accessory: crown \u2192 monocle"
+    },
+    {
+      "timestamp": "2026-01-15T00:51:54.608865",
+      "dna_hash": "4837b1e5338c48a5",
+      "generation": 1,
+      "mutation_count": 12,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "curious",
+        "accessory": "monocle",
+        "pattern": "solid",
+        "background": "blue_sky",
+        "special": "aura"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
