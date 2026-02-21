@@ -1,9 +1,9 @@
 {
-  "dna_hash": "64b7ca9f5faf28cb",
+  "dna_hash": "5658cd3dc73a0894",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 43,
-  "rarity_score": 21.666666666666668,
+  "mutation_count": 44,
+  "rarity_score": 26.666666666666668,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -15,8 +15,8 @@
       "rarity": "rare"
     },
     "accessory": {
-      "value": "monocle",
-      "rarity": "uncommon"
+      "value": "wizard_hat",
+      "rarity": "rare"
     },
     "pattern": {
       "value": "diamonds",
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-02-20T02:07:58.140367"
+  "last_updated": "2026-02-21T02:02:17.226776"
 }
