@@ -1,9 +1,9 @@
 {
-  "dna_hash": "fe62971d281c76d8",
+  "dna_hash": "c5052b0dc0b5f33a",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 89,
-  "rarity_score": 46.666666666666664,
+  "mutation_count": 90,
+  "rarity_score": 41.66666666666667,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -15,8 +15,8 @@
       "rarity": "common"
     },
     "accessory": {
-      "value": "laser_eyes",
-      "rarity": "rare"
+      "value": "headphones",
+      "rarity": "uncommon"
     },
     "pattern": {
       "value": "quantum",
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-04-01T02:40:02.384262"
+  "last_updated": "2026-04-02T02:25:46.091896"
 }
