@@ -1,9 +1,9 @@
 {
-  "dna_hash": "c40af73ec74ea7bb",
+  "dna_hash": "c187c44056b890f2",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 118,
-  "rarity_score": 50.0,
+  "mutation_count": 122,
+  "rarity_score": 43.333333333333336,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -11,15 +11,15 @@
       "rarity": "legendary"
     },
     "face_expression": {
-      "value": "mischievous",
-      "rarity": "uncommon"
+      "value": "sleepy",
+      "rarity": "common"
     },
     "accessory": {
-      "value": "horns",
-      "rarity": "rare"
+      "value": "sunglasses",
+      "rarity": "uncommon"
     },
     "pattern": {
-      "value": "void",
+      "value": "aurora",
       "rarity": "legendary"
     },
     "background": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-04-24T02:41:33.549471"
+  "last_updated": "2026-04-25T02:30:40.030717"
 }
