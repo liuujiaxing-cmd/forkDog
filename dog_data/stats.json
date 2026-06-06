@@ -1,8 +1,8 @@
 {
-  "dna_hash": "2c01ac26184d7673",
+  "dna_hash": "105b1e086ce73cbf",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 175,
+  "mutation_count": 177,
   "rarity_score": 46.666666666666664,
   "parent_id": null,
   "traits": {
@@ -15,11 +15,11 @@
       "rarity": "legendary"
     },
     "accessory": {
-      "value": "halo",
+      "value": "horns",
       "rarity": "rare"
     },
     "pattern": {
-      "value": "nebula",
+      "value": "flames",
       "rarity": "rare"
     },
     "background": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-06-05T03:50:06.360111"
+  "last_updated": "2026-06-06T03:32:43.629049"
 }
