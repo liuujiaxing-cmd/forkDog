@@ -1,9 +1,9 @@
 {
-  "dna_hash": "105b1e086ce73cbf",
+  "dna_hash": "dfb83d38c5a84b96",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 178,
-  "rarity_score": 46.666666666666664,
+  "mutation_count": 180,
+  "rarity_score": 55.00000000000001,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -15,8 +15,8 @@
       "rarity": "legendary"
     },
     "accessory": {
-      "value": "horns",
-      "rarity": "rare"
+      "value": "golden_crown",
+      "rarity": "legendary"
     },
     "pattern": {
       "value": "flames",
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-06-08T04:03:16.721829"
+  "last_updated": "2026-06-09T03:33:27.311143"
 }
