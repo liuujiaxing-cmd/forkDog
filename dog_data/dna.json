@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "55d2e023dd32468c",
-  "mutation_count": 190,
+  "dna_hash": "aabdf2ea135b1590",
+  "mutation_count": 191,
   "birth_timestamp": 267032,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "fa2b44cd"
     },
     "accessory": {
-      "value": "golden_crown",
+      "value": "wings",
       "rarity": "legendary",
-      "gene_sequence": "c600024c"
+      "gene_sequence": "b6b9711d"
     },
     "pattern": {
       "value": "cosmic_dust",
