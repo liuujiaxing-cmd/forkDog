@@ -3439,6 +3439,22 @@
         "special": "none"
       },
       "story": "Your dog evolved randomly!"
+    },
+    {
+      "timestamp": "2026-06-22T04:17:13.237526",
+      "dna_hash": "b6ea042ebb2b9eb5",
+      "generation": 1,
+      "mutation_count": 198,
+      "rarity_score": 65.0,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "legendary",
+        "accessory": "golden_crown",
+        "pattern": "cosmic_dust",
+        "background": "city",
+        "special": "glow"
+      },
+      "story": "Your dog evolved randomly!"
     }
   ]
 }
