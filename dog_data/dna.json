@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "0cf5ff6511df6a4d",
-  "mutation_count": 244,
+  "dna_hash": "3b0f7939aca5bf02",
+  "mutation_count": 247,
   "birth_timestamp": 267032,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "0f873f07"
     },
     "accessory": {
-      "value": "jetpack",
+      "value": "golden_crown",
       "rarity": "legendary",
-      "gene_sequence": "ec211553"
+      "gene_sequence": "c600024c"
     },
     "pattern": {
       "value": "quantum",
@@ -26,14 +26,14 @@
       "gene_sequence": "bda652b7"
     },
     "background": {
-      "value": "multiverse",
+      "value": "heaven",
       "rarity": "legendary",
-      "gene_sequence": "760b5e30"
+      "gene_sequence": "7e04d118"
     },
     "special": {
-      "value": "particles",
+      "value": "energy",
       "rarity": "rare",
-      "gene_sequence": "65e997af"
+      "gene_sequence": "adb72200"
     }
   },
   "rarity_score": 75.0
