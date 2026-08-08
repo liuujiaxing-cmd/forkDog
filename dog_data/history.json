@@ -4191,6 +4191,22 @@
         "special": "aura"
       },
       "story": "Your dog evolved randomly!"
+    },
+    {
+      "timestamp": "2026-08-08T01:38:20.489053",
+      "dna_hash": "f03b13f5c9e9d558",
+      "generation": 1,
+      "mutation_count": 259,
+      "rarity_score": 75.0,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "zen",
+        "accessory": "diamond_chain",
+        "pattern": "aurora",
+        "background": "dimension_rift",
+        "special": "aura"
+      },
+      "story": "Your dog evolved randomly!"
     }
   ]
 }
