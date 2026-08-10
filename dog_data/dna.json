@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "dff4de92721a1bf7",
-  "mutation_count": 262,
+  "dna_hash": "b9fa1bf9dbd2f424",
+  "mutation_count": 263,
   "birth_timestamp": 267032,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "facdd9fe"
     },
     "face_expression": {
-      "value": "zen",
+      "value": "laughing",
       "rarity": "rare",
-      "gene_sequence": "61895282"
+      "gene_sequence": "dbc6932f"
     },
     "accessory": {
       "value": "diamond_chain",
