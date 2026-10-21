@@ -5375,6 +5375,22 @@
         "special": "sparkles"
       },
       "story": "Your dog evolved randomly!"
+    },
+    {
+      "timestamp": "2026-10-21T03:33:31.808730",
+      "dna_hash": "ed966fcea32cc076",
+      "generation": 1,
+      "mutation_count": 334,
+      "rarity_score": 63.33333333333333,
+      "traits": {
+        "body_color": "holographic",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "fractals",
+        "background": "black_hole",
+        "special": "glow"
+      },
+      "story": "Your dog evolved randomly!"
     }
   ]
 }

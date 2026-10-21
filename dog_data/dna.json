@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "c252e9f921fdab03",
-  "mutation_count": 333,
+  "dna_hash": "ed966fcea32cc076",
+  "mutation_count": 334,
   "birth_timestamp": 267032,
   "traits": {
     "body_color": {
@@ -31,9 +31,9 @@
       "gene_sequence": "f3696e1d"
     },
     "special": {
-      "value": "sparkles",
+      "value": "glow",
       "rarity": "uncommon",
-      "gene_sequence": "18ebc4a5"
+      "gene_sequence": "0903c0f5"
     }
   },
   "rarity_score": 63.33333333333333
